@@ -1,0 +1,16 @@
+{
+    "configurations": [
+    {
+        "name": "(lldb) Запустить",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "/Users/Emir/My Doc/viusalstudiocode/heyhey.cpp",
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${workspaceFolder}",
+        "environment": [],
+        "console": "externalTerminal",
+        "MIMode": "lldb"
+    }
+    ]
+}
